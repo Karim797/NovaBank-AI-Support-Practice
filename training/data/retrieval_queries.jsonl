@@ -1,0 +1,70 @@
+{"query": "my card was charged twice for the same thing", "relevant_docs": ["duplicate-and-unrecognised-charges"]}
+{"query": "how long does a pending atm withdrawal take to clear", "relevant_docs": ["cash-withdrawals-and-atms", "pending-and-failed-transactions"]}
+{"query": "how do I replace a card I lost", "relevant_docs": ["lost-stolen-and-compromised-cards"]}
+{"query": "what does an international swift transfer cost", "relevant_docs": ["fees-and-charges", "transfers-domestic-and-international"]}
+{"query": "why was my transfer rejected", "relevant_docs": ["transfers-domestic-and-international"]}
+{"query": "how much can I withdraw from an atm each day", "relevant_docs": ["limits", "cash-withdrawals-and-atms"]}
+{"query": "can I pay in a cheque", "relevant_docs": ["pending-and-failed-transactions", "top-ups-and-deposits"]}
+{"query": "the exchange rate on my card payment looks wrong", "relevant_docs": ["exchange-rates-and-fx"]}
+{"query": "my contactless has stopped working", "relevant_docs": ["card-activation-and-pin"]}
+{"query": "I entered my pin wrong three times and now it is blocked", "relevant_docs": ["card-activation-and-pin"]}
+{"query": "how long until my new card arrives", "relevant_docs": ["cards-ordering-and-delivery"]}
+{"query": "refund from a shop has not arrived yet", "relevant_docs": ["refunds-and-chargebacks"]}
+{"query": "what is a chargeback and how long do I have", "relevant_docs": ["refunds-and-chargebacks"]}
+{"query": "why do you need my passport and a selfie", "relevant_docs": ["identity-verification-kyc"]}
+{"query": "identity verification keeps failing", "relevant_docs": ["identity-verification-kyc"]}
+{"query": "you asked me to prove where my money came from", "relevant_docs": ["identity-verification-kyc"]}
+{"query": "top up by card failed", "relevant_docs": ["top-ups-and-deposits"]}
+{"query": "is there a fee for topping up with my debit card", "relevant_docs": ["fees-and-charges", "top-ups-and-deposits"]}
+{"query": "money I sent by bank transfer has not shown up in my balance", "relevant_docs": ["top-ups-and-deposits", "pending-and-failed-transactions"]}
+{"query": "can I use apple pay", "relevant_docs": ["virtual-and-disposable-cards"]}
+{"query": "how many disposable cards can I have", "relevant_docs": ["virtual-and-disposable-cards", "limits"]}
+{"query": "do you accept mastercard", "relevant_docs": ["card-payments-and-declines", "cards-ordering-and-delivery"]}
+{"query": "someone used my card details without permission", "relevant_docs": ["lost-stolen-and-compromised-cards", "duplicate-and-unrecognised-charges", "fraud-and-security"]}
+{"query": "an atm gave me less cash than it took", "relevant_docs": ["cash-withdrawals-and-atms"]}
+{"query": "I want to close my account", "relevant_docs": ["accounts-and-eligibility"]}
+{"query": "how old do you have to be to open an account", "relevant_docs": ["accounts-and-eligibility"]}
+{"query": "how do I cancel a transfer I just sent", "relevant_docs": ["transfers-domestic-and-international"]}
+{"query": "my card payment was declined at a shop", "relevant_docs": ["card-payments-and-declines"]}
+{"query": "is my money protected if you go bust", "relevant_docs": ["general-faq"]}
+{"query": "I lost my phone", "relevant_docs": ["lost-stolen-and-compromised-cards", "mobile-banking-and-app"]}
+{"query": "the same purchase is showing twice even though I only bought it once", "relevant_docs": ["duplicate-and-unrecognised-charges"], "kind": "paraphrase"}
+{"query": "the cash machine kept my card and would not give it back", "relevant_docs": ["cash-withdrawals-and-atms", "lost-stolen-and-compromised-cards"], "kind": "paraphrase"}
+{"query": "a shop says they sent the money back but my balance still has not changed", "relevant_docs": ["refunds-and-chargebacks", "pending-and-failed-transactions"], "kind": "paraphrase"}
+{"query": "I sent money to someone and they still have not received it", "relevant_docs": ["transfers-domestic-and-international", "pending-and-failed-transactions"], "kind": "paraphrase"}
+{"query": "what will you charge me if I send pounds to a bank overseas", "relevant_docs": ["fees-and-charges", "transfers-domestic-and-international"], "kind": "paraphrase"}
+{"query": "the atm debited one hundred pounds but only paid out sixty", "relevant_docs": ["cash-withdrawals-and-atms"], "kind": "paraphrase"}
+{"query": "I changed phones and now I cannot get back into the banking app", "relevant_docs": ["mobile-banking-and-app"], "kind": "paraphrase"}
+{"query": "why are you asking me where my salary or savings came from", "relevant_docs": ["identity-verification-kyc"], "kind": "paraphrase"}
+{"query": "can my teenage son or daughter open one of these accounts", "relevant_docs": ["accounts-and-eligibility"], "kind": "paraphrase"}
+{"query": "there is a card purchase on my statement that I do not recognise", "relevant_docs": ["duplicate-and-unrecognised-charges", "fraud-and-security", "lost-stolen-and-compromised-cards"], "kind": "paraphrase"}
+{"query": "chip and pin works but tapping the card suddenly does nothing", "relevant_docs": ["card-activation-and-pin"], "kind": "paraphrase"}
+{"query": "a bank transfer into my account should have arrived but the balance is unchanged", "relevant_docs": ["top-ups-and-deposits", "pending-and-failed-transactions"], "kind": "paraphrase"}
+{"query": "do you give me a temporary virtual card for buying things online", "relevant_docs": ["virtual-and-disposable-cards"], "kind": "paraphrase"}
+{"query": "can I add this card to my phone wallet and pay with it", "relevant_docs": ["virtual-and-disposable-cards"], "kind": "paraphrase"}
+{"query": "every shop terminal keeps refusing my card even though there is money in the account", "relevant_docs": ["card-payments-and-declines"], "kind": "paraphrase"}
+{"query": "my replacement bank card was posted days ago and still has not turned up", "relevant_docs": ["cards-ordering-and-delivery"], "kind": "paraphrase"}
+{"query": "the currency conversion while I was abroad looks much worse than I expected", "relevant_docs": ["exchange-rates-and-fx"], "kind": "paraphrase"}
+{"query": "I cannot remember my pin and need to set a different one", "relevant_docs": ["card-activation-and-pin"], "kind": "paraphrase"}
+{"query": "I put money on the account with another card but the top up never completed", "relevant_docs": ["top-ups-and-deposits", "pending-and-failed-transactions"], "kind": "paraphrase"}
+{"query": "I sent a transfer a moment ago and need to undo it before it reaches the other person", "relevant_docs": ["transfers-domestic-and-international"], "kind": "paraphrase"}
+{"query": "what is the capital of France", "relevant_docs": []}
+{"query": "write me a poem about the sea", "relevant_docs": []}
+{"query": "what will bitcoin be worth next year", "relevant_docs": []}
+{"query": "can you give me a mortgage quote", "relevant_docs": []}
+{"query": "will it rain in London tomorrow afternoon", "relevant_docs": [], "kind": "out_of_scope"}
+{"query": "write a polite resignation email to my manager", "relevant_docs": [], "kind": "out_of_scope"}
+{"query": "explain the difference between a left join and an inner join", "relevant_docs": [], "kind": "out_of_scope"}
+{"query": "how do I renew an expired passport", "relevant_docs": [], "kind": "out_of_scope"}
+{"query": "what time is the next train from Manchester to Leeds", "relevant_docs": [], "kind": "out_of_scope"}
+{"query": "which technology stock should I buy this week", "relevant_docs": [], "kind": "out_of_scope"}
+{"query": "should I move my savings into ethereum right now", "relevant_docs": [], "kind": "out_of_scope"}
+{"query": "recommend a lightweight laptop for university", "relevant_docs": [], "kind": "out_of_scope"}
+{"query": "how many calories are in two eggs and a banana", "relevant_docs": [], "kind": "out_of_scope"}
+{"query": "translate good morning into Italian", "relevant_docs": [], "kind": "out_of_scope"}
+{"query": "who won the football match last night", "relevant_docs": [], "kind": "out_of_scope"}
+{"query": "help me find a hotel near the Colosseum in Rome", "relevant_docs": [], "kind": "out_of_scope"}
+{"query": "I have a sore throat and fever what medicine should I take", "relevant_docs": [], "kind": "out_of_scope"}
+{"query": "why does my Python loop raise an index error", "relevant_docs": [], "kind": "out_of_scope"}
+{"query": "give me an easy recipe for chicken pasta", "relevant_docs": [], "kind": "out_of_scope"}
+{"query": "what documents do I need for a tourist visa to Japan", "relevant_docs": [], "kind": "out_of_scope"}
