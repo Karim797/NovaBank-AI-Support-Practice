@@ -1,6 +1,6 @@
 """FastAPI application.
 
-Two things here are load-bearing and are the usual interview questions:
+Two implementation details here are load-bearing:
 
 1. **Artifacts load once, in the lifespan handler.** Loading a joblib pipeline is
    ~200 ms; doing it per request would put that on every call and multiply
