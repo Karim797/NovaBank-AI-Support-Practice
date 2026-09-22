@@ -90,7 +90,7 @@ def categorical_psi(reference: dict[str, float], current: dict[str, float]) -> f
 def ks_2sample(reference: np.ndarray, current: np.ndarray) -> tuple[float, float]:
     """Kolmogorov-Smirnov two-sample test on the confidence distribution.
 
-    Caveat worth knowing in an interview: with a large enough sample, KS finds a
+    Caveat: with a large enough sample, KS finds a
     statistically significant difference that is operationally meaningless. Read
     the statistic (effect size) alongside the p-value, and always alert on PSI
     or the statistic — never on the p-value alone.
